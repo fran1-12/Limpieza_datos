@@ -1,0 +1,7 @@
+venta_id,cliente,email,fecha,cantidad,precio_unitario,motivo_rechazo
+3,Laura Pérez,laura-correo.com,2026-01-12,3,25000,email_invalido
+4,Pedro López,pedro@correo.com,fecha_invalida,1,30000,fecha_invalida
+5,Sofía Díaz,sofia@correo.com,2026-01-14,-2,15000,cantidad_invalida
+6,,julian@correo.com,2026-01-15,1,60000,cliente_vacio
+7,Mateo Gil,mateo@correo.com,2026-01-16,2,-5000,precio_invalido
+9,Daniel Ríos,daniel@correo.com,2026-01-18,abc,22000,cantidad_invalida

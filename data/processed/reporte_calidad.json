@@ -1,0 +1,15 @@
+{
+  "filas_entrada": 10,
+  "duplicados_eliminados": 1,
+  "filas_validas": 3,
+  "filas_rechazadas": 6,
+  "errores_por_regla": {
+    "venta_id_invalido": 0,
+    "cliente_vacio": 1,
+    "email_invalido": 1,
+    "fecha_invalida": 1,
+    "cantidad_invalida": 2,
+    "precio_invalido": 1,
+    "venta_id_repetido": 0
+  }
+}
